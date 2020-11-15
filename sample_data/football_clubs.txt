@@ -1,0 +1,22 @@
+name
+Arsenal FC
+A.F.C. Bournemouth
+Brighton & Hove Albion F.C.
+Burnley F.C.
+Chelsea FC
+Crystal Palace FC
+Everton FC
+Huddersfield Town
+Leicester City
+Liverpool FC
+Manchester City
+Manchester United
+Newcastle United
+Southampton FC
+Stoke City
+Swansea City
+Tottenham Hotspur
+Watford FC
+West Bromwich Albion
+West Ham United
+Leeds United FC
